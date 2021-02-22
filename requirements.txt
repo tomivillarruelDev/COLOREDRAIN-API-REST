@@ -1,0 +1,13 @@
+pillow >= 8.0
+psycopg2-binary>=2.8
+Markdown==2.6.11
+selenium<4
+requests>=2.25.1
+django>=2.0,<3.0
+djangorestframework>=3.12.2
+django-filter>=2.2.0
+django-rest-framework-proxy==1.4.0
+django-oauth-toolkit>=1.3.3
+django-report-builder>=6.4.0
+django-totalsum-admin>=2.0.1
+django_nvd3>=0.9.7
