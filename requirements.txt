@@ -9,5 +9,8 @@ django-filter>=2.2.0
 django-rest-framework-proxy==1.4.0
 django-oauth-toolkit>=1.3.3
 django-report-builder>=6.4.0
-django-totalsum-admin>=2.0.1
 django_nvd3>=0.9.7
+django-totalsum-admin
+factory-boy==3.1.0
+faker
+django-dbbackup

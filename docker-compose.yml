@@ -7,4 +7,6 @@ services:
     volumes:
       - $PWD/code:/code
     ports:
-      - "8000:8000"    
+      - "8000:8000"
+    environment:
+      DJANGO_ALLOWED_HOSTS: 'local.f6vings.ar localhost 127.0.0.1'
